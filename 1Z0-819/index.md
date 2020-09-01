@@ -1,8 +1,11 @@
 # Java SE 11 Developer
 ---
 
-## Exam Topics
+## Exam Topics 
 ---
+
+([click here for details](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819))
+
 
 * [Working with text values, primitives, wrapper classes and enumerators](https://github.com/sharwankami/preps/blob/master/1Z0-819/working-with-text-values-primitives-wrapper-classes-and-enumeratots.md)
 * [Exception Handling](https://github.com/sharwankami/preps/blob/master/1Z0-819/exception-handling.md)
