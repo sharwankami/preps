@@ -1,10 +1,10 @@
-#Java SE 11 Developer
+# Java SE 11 Developer
 ---
 
 ## Exam Topics
 ---
 
-* [Working with text values, primitives, wrapper classes and enumerators](https://github.com/sharwankami/preps/blob/master/1Z0-819/working-with-text-values-primitives-wrapper-classes-and-enumeratots.md.md)
+* [Working with text values, primitives, wrapper classes and enumerators](https://github.com/sharwankami/preps/blob/master/1Z0-819/working-with-text-values-primitives-wrapper-classes-and-enumeratots.md)
 * [Exception Handling](https://github.com/sharwankami/preps/blob/master/1Z0-819/exception-handling.md)
 * [Working with Streams and Lambda expressions](https://github.com/sharwankami/preps/blob/master/1Z0-819/working-with-streams-and-lambda-expressions.md)
 * [Concurrency](https://github.com/sharwankami/preps/blob/master/1Z0-819/concurrency.md)
