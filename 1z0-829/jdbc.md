@@ -72,3 +72,27 @@ classDiagram
 
 
 ```
+
+Obtain `PreparedStatement` from `Connection`
+
+```java
+try(PreparedStatement ps = conn.prepareStatement(sql)){
+
+}
+```
+
+`sql` statement is needed while getting PreparedStatement, otherwise it will not compile.
+
+Just creating preparedStatement does not execute the query.
+
+Methods in PreparedStatement
+
+|---|---|---|
+| method | return type | operations |
+|---|---|---|
+| execute() | boolean | select, insert, update, delete |
+| executeQuery() | ResultSet | select |
+| executeUpdate() | int | insert, update, delete |
+|---|---|---|
+
+
